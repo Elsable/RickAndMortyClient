@@ -5,7 +5,7 @@ import { InMemoryCache } from 'apollo-cache-inmemory';
 ///Here is the server url
 
 const client = new ApolloClient({
-	uri: "https://rickandmortyapi.com/graphql",
+	uri: "https://cors-anywhere.herokuapp.com/https://rickandmortyapi.com/graphql",
     cache: new InMemoryCache(),
 	onError:({networkError})=>{
 		if(networkError){
