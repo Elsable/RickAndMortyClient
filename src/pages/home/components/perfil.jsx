@@ -38,7 +38,7 @@ export default memo(
                         <img
                           className="img-thumbnail"
                           style={{width: 240}}
-                          src={data.character.image}
+                          src={"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/"+data.character.image}
                           alt="alo"
                         />                        </div>
                         
