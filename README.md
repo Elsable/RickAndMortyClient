@@ -66,10 +66,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# ReactInit
-"# CredifielExam" 
-"# Queva" 
-"# Rick-Morty-Client" 
-"# Rick-Morty-Client" 
+# ReactInit 
 "# Rick-Morty-Client" 
 "# RickAndMortyClient" 
